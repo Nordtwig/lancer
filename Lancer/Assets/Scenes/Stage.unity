@@ -559,9 +559,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4e686e499f4e2241811b9ec522e2527, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 5
-  turnSpeed: 100
-  angularSpeed: 5
+  movementSpeed: 7
+  turnSpeed: 120
+  isPlayer2: 1
 --- !u!65 &976916710
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -729,9 +729,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4e686e499f4e2241811b9ec522e2527, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 5
-  turnSpeed: 100
-  angularSpeed: 5
+  movementSpeed: 7
+  turnSpeed: 120
+  isPlayer2: 0
 --- !u!54 &1953818914
 Rigidbody:
   m_ObjectHideFlags: 0
